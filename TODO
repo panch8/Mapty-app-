@@ -1,0 +1,16 @@
+###### Add features.
+
+# from UI
+
+- edit workout
+- remove workout
+- delete all workout
+
+- sort workouts by a certain field. i.e by distance.
+
+- Re- build Running and Cycling objects comming from local storage.
+- more ralistic Error confirmations.
+
+### HARD ONES
+
+- Ability to position the map to show all workouts. pressing a button.
